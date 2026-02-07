@@ -1,4 +1,4 @@
-<h1>Hey 👋, I'm Hetvi Lad </h1>
+<h1> I'm Hetvi Lad </h1>
 <p> PERN Developer from Navsari, Gujarat, India</p>
 <p> Currently exploring DSA</p>
 <p> Ambition: Become a Fullstack Developer with AI skills</p>
