@@ -1,7 +1,6 @@
-<h1> I'm Hetvi Lad </h1>
-<p> PERN Developer from Navsari, Gujarat, India</p>
-<p> Currently exploring DSA</p>
-<p> Ambition: Become a Fullstack Developer with AI skills</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,+I'm+Hetvi+Lad!👋&fontSize=40&fontAlignY=35&animation=twinkling&desc=Frontend+Developer+%7C+Learner+%7C+Tech+Event+Explorer&descAlignY=55&descAlign=50"/>
+</div>
 
 ## 👨‍💻 About Me
 
