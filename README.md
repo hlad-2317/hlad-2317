@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,+I'm+Hetvi+Lad!👋&fontSize=40&fontAlignY=35&animation=twinkling&desc=Frontend+Developer+%7C+Learner+%7C+Tech+Event+Explorer&descAlignY=55&descAlign=50"/>
 </div>
 
-## 👨‍💻 About Me
-
-- ✨ Creating bugs since **Nov 2025**
-
+##  I'm currently learning:
+- The basics of **Python** / **Java** / **C++** (whichever you're learning)
+- How to use **Git** and **GitHub** (clearly! 😄)
+- Problem-solving and logical thinking
 ---
 
 ###
@@ -15,12 +15,6 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hlad-2317&theme=react&border_radius=10" />
-
----
-  
-  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=hlad-2317&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  <br/>
-
 </div>
 
 ---
